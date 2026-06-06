@@ -1,6 +1,7 @@
 # Nimbus — AI Weather Intelligence
 
 link: https://kasviii.github.io/Weather-app/
+
 A clean, fully-featured weather app in a single HTML file. No build step, no backend, no required API keys to get started.
 
 ![HTML](https://img.shields.io/badge/HTML-single%20file-orange) ![License](https://img.shields.io/badge/license-MIT-blue) ![APIs](https://img.shields.io/badge/weather%20API-free-green)
